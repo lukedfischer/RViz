@@ -4,4 +4,4 @@
 
 [US-Americans' Threat Perceptions US Public](https://lukedfischer.github.io/RViz/252/Military%20Threats.html)
 
-[Bundestagswahlergebnisse Köln](https://lukedfischer.github.io/RViz/253/Bundestagswahlergebnisse%20Köln.html)
+[Bundestagswahlergebnisse Köln](https://lukedfischer.github.io/RViz/253/Bundestagswahlergebnisse%20Koeln.html)
