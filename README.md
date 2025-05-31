@@ -1,7 +1,9 @@
 # Welcome to my Visualization Repository
 
-[Share of Second Votes Germany](https://lukedfischer.github.io/RViz/251/Zweitstimmenanteil.html)
+Hi ✌️ I'm Luke, a political psychology enthusiast with a passion for data visualization. Feel free to explore some of my visualization projects below!
 
-[US-Americans' Threat Perceptions US Public](https://lukedfischer.github.io/RViz/252/Military%20Threats.html)
+- [Share of Second Votes Germany](https://lukedfischer.github.io/RViz/251/Zweitstimmenanteil.html)
 
-[Bundestagswahlergebnisse Köln](https://lukedfischer.github.io/RViz/253/Bundestagswahlergebnisse%20Koeln.html)
+- [US-Americans' Threat Perceptions US Public](https://lukedfischer.github.io/RViz/252/Military%20Threats.html)
+
+- [Bundestagswahlergebnisse Köln](https://lukedfischer.github.io/RViz/253/Bundestagswahlergebnisse%20Koeln.html)
